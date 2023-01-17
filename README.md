@@ -27,6 +27,7 @@ Additional_Info: Nesta coluna, obteremos informações sobre comida, tipo de com
 Preço: Preço do voo(referência Índia) para uma viagem completa incluindo todas as despesas antes do embarque.
 
 CONSIDERAÇÕES FINAIS
+
 Através das análises do dados verificou-se que:
 
 Até 50% dos preços das passagens estão em torno de 8372 moeda local da india,sendo que exitem preços de 79.512 que reflete uam caracterísitica de serviços ou produtos diferenciado (voos executivos por exemplos).
