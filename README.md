@@ -38,4 +38,4 @@ Quanto ao preço por destino se destaca COCHIN e BANGLORE com os melhores preço
 
 O maior número de viagens em relação ao preço, está com duração de 10hs e valor de 14714. porém existem preços menores com a mesma duraçao de viagens, levando a considerar que a duração do tempo de voo, não determina por si só as tarifas.Isso significa que é preciso conversar com a área de negócio sobre formação de preços.
 
-Quanto á modelagemo modelo escolhido foi baseado nos testes com métricas de avaliação que precisou um erro médio absoluto de 6%, com acertividade de 94%,onde as variáveis explicativas contibuiram com o modelo em em 97%, porém é preciso que o modelo seja checado de forma a garantir à eficiencia da proposta
+Quanto á modelagemo modelo escolhido foi baseado nos testes com métricas de avaliação que precisou um erro médio absoluto de 6%, com assertividade de 94%,onde as variáveis explicativas contribuiram com o modelo em em 97%, porém é preciso que o modelo seja checado de forma a garantir à eficiencia da proposta
